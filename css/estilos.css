@@ -6,6 +6,24 @@ body
 
 }
 
+#cabecera
+{
+
+    background: chartreuse;
+    color: black;
+    margin: 0;
+    font-weight: bold;
+    padding: 0.5em;
+}
+
+#cabecera #tagline
+{
+    margin: 1em 0 0 0;
+    font-weight: normal;
+    font-size: 0.8em;
+}
+
+
 #container
 {
 width: 70%;
